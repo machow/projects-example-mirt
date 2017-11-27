@@ -1,4 +1,4 @@
-# Use this script to installR packages necessary for your project. 
+# Use this script to install R packages necessary for your project. 
 # This script is run after requirements.sh . Use devtools::install_version 
 # to install packages so that the right version is installed.
 

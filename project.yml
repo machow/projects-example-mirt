@@ -2,14 +2,14 @@
 #### All this will be visible on DataCamp.com ####
 title          : "The title of the project"
 description    : >
-  A short description of the project, less than 140 characters.
+  A short description of the project, less than 140 characters. Written in markdown.
 long_description: |
-  A longer description of the project around 3 - 4 lines. 
-  Should mention and link to prerequsite courses.
+  A longer description of the project around 3 - 4 lines. Written in markdown.
+  Should mention and link to prerequisite courses.
 time_needed: "45 minutes" # "30/45/60 minutes".
 instructors: # DataCamp connected email of the creator of the Project
   - rasmus@datacamp.com
-collaborators: # DataCamp connected email of people that helped with teh Project
+collaborators: # DataCamp connected email of people that helped with the Project
   - rasmus@datacamp.com
 
 #### Metadata regarding course requirements and topics ####
@@ -34,7 +34,4 @@ language       : r # One of r, python or sql
 from           : 'r-notebooks-prod:21'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
 
-#### Set this flag to live preleases the Project on DataCamp.                ####
-#### Please don't do this without talking with your DataCamp contact first.  ####
-state          : development # development/live .
 
