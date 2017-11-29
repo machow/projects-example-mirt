@@ -20,6 +20,6 @@ There are some packages you need to be able to create DataCamp Projects locally.
 
 ```
 install.packages("devtools")
-install.packages(testthat")
+install.packages("testthat")
 devtools::install_github('datacamp/IRkernel.testthat')
 ```
