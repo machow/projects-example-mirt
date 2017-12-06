@@ -31,7 +31,7 @@ illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_3
 #### This will be updated by your DataCamp contact.              ####
 language       : r # One of r, python or sql
 # The name of the docker image used to run the course
-from           : 'r-notebooks-prod:29'
+from           : 'r-notebooks-prod:34'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
 
 
