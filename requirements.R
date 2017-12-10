@@ -3,4 +3,4 @@
 # to install packages so that the right version is installed.
 
 # For example
-devtools::install_version('tidyverse', version = '1.2.0')
+devtools::install_version('tidyverse', version = '1.2.1')
