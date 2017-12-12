@@ -4,3 +4,4 @@
 
 # For example
 devtools::install_version('tidyverse', version = '1.2.1')
+devtools::install_version('mirt', '1.26.3')
